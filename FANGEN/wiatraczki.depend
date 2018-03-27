@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522056431 source:d:\c++\przyk³ady\wiatraczki\main.cpp
+	<iostream>
+	<cmath>
+

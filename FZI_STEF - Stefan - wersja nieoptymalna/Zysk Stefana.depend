@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521742326 source:d:\c++\przyk³ady\zysk stefana\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
