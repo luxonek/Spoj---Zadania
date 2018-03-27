@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521912947 source:d:\c++\przyk³ady\mapka na spoja\main.cpp
+	<iostream>
+	<map>
+	<algorithm>
+	<vector>
+

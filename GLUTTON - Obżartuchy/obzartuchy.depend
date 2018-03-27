@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499799405 source:d:\c++\przyk³ady\obzartuchy\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+

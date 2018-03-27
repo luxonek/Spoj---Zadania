@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522151998 source:d:\c++\przyk³ady\wi_szyfr - szyfr gronsfelda\main.cpp
+	<iostream>
+	<sstream>
+
